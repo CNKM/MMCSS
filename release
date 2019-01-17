@@ -1,0 +1,1 @@
+dotnet publish -c release -r linuxmint.18.3-x64 
